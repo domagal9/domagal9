@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Rachel Domagalski (she/her) and I am a Mathematics PhD candidate at Michigan State University. 
 
+#### My research is in graph theory and social network analysis. I maintain the Rstats package backbone which you can view here: https://github.com/domagal9/backbone
+#### My publications can be viewed here: https://orcid.org/0000-0003-2457-9195
+#### I'd love to connect on Twitter! https://twitter.com/rdomagalski
 <!--
 **domagal9/domagal9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
