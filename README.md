@@ -5,6 +5,7 @@
 #### I created MSU themed LaTeX templates which you can access here: https://github.com/domagal9/MSU-LaTeX-Templates
 #### My publications can be viewed here: https://orcid.org/0000-0003-2457-9195
 #### I'd love to connect on Twitter! https://twitter.com/rdomagalski
+#### You can also find me on LinkedIn: https://www.linkedin.com/in/rachel-domagalski/
 <!--
 **domagal9/domagal9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
