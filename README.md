@@ -2,6 +2,7 @@
 
 #### My Resume and Curriculum Vitae can be found here: https://github.com/domagal9/curriculum-vitae
 #### My research is in graph theory and social network analysis. I maintain the Rstats package backbone which you can view here: https://github.com/domagal9/backbone
+#### I completed a project ClassifyMyMeds for The Erdős Institute's Data Science Boot Camp which won 3rd place: https://github.com/domagal9/classifymymeds
 #### I created MSU themed LaTeX templates which you can access here: https://github.com/domagal9/MSU-LaTeX-Templates
 #### My publications can be viewed here: https://orcid.org/0000-0003-2457-9195
 #### I'd love to connect on Twitter! https://twitter.com/rdomagalski
