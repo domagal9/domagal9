@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Rachel Domagalski (she/her) and I am a Mathematics PhD candidate at Michigan State University. 
 
-#### My Resume and Curriculum Vitae can be found here: https://github.com/domagal9/curriculum-vitae
+#### My Resume and Curriculum Vitae can be found here: https://github.com/domagal9/Resume_Curriculum-Vitae
 #### My research is in graph theory and social network analysis. I maintain the Rstats package backbone which you can view here: https://github.com/domagal9/backbone
 #### I completed a project ClassifyMyMeds for The Erdős Institute's Data Science Boot Camp which won 3rd place: https://github.com/domagal9/classifymymeds
 #### I created MSU themed LaTeX templates which you can access here: https://github.com/domagal9/MSU-LaTeX-Templates
