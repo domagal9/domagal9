@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Rachel Domagalski (she/her) and I am a Mathematics PhD candidate at Michigan State University. 
+### Hi there 👋 My name is Rachel Domagalski (she/her) and I just defended my PhD in Mathematics at Michigan State University!
+### I am actively looking for entry-level industry positions in data science and machine learning in the Detroit area or remote. 
 
 #### My Resume and Curriculum Vitae can be found here: https://github.com/domagal9/Resume_Curriculum-Vitae
 #### My research is in graph theory and social network analysis. I maintain the Rstats package backbone which you can view here: https://github.com/domagal9/backbone
