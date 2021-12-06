@@ -1,8 +1,8 @@
-### Hi there 👋 My name is Rachel Domagalski (she/her) and I just defended my PhD in Mathematics at Michigan State University!
-### I am actively looking for entry-level industry positions in data science and machine learning in the Detroit area or remote. 
+### Hi there 👋 My name is Rachel Domagalski (she/her).
 
 #### My Resume and Curriculum Vitae can be found here: https://github.com/domagal9/Resume_Curriculum-Vitae
-#### My research is in graph theory and social network analysis. I maintain the Rstats package backbone which you can view here: https://github.com/domagal9/backbone
+#### My PhD research was in combinatorics, graph theory, and social network analysis. My thesis can be read here: https://d.lib.msu.edu/etd/50003, with corresponding replication files found here: https://github.com/domagal9/dissertation
+#### I've worked on the Rstats package backbone which you can view here: https://github.com/zpneal/backbone
 #### I completed a project ClassifyMyMeds for The Erdős Institute's Data Science Boot Camp which won 3rd place: https://github.com/domagal9/classifymymeds
 #### I created MSU themed LaTeX templates which you can access here: https://github.com/domagal9/MSU-LaTeX-Templates
 #### My publications can be viewed here: https://orcid.org/0000-0003-2457-9195
